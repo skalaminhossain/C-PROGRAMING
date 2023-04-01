@@ -29,3 +29,28 @@ eigula use korar jonnno dubble dubble dite hobe
 
 new line e print korar jonno \n use kora hoy
 \t  = tab use korar jonno 
+
+-----Tutorial 1.4-------
+// Data type 
+
+int => 100, 20, 45 , 60 , -100 ==> 4byte storage contained
+float => -3.0 , 10.55 , 100.7 , 200.5 
+char => "a" , "b" , "C" , "@"
+bool => True or False
+
+----Tutorial 1.5-----
+
+1024 mb = 1GB
+1024 kb = 1MB
+1024 byte = 1kb
+
+
+%0.2f = doshomik er pore je koyta digit dekhte chai oitar value
+
+format specifier
+to formate Data
+%d = int value
+%f = float value
+%0.2f = float last er duita value
+%c = char value
+%s = string value
