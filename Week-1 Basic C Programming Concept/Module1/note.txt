@@ -1,0 +1,20 @@
+Basic Stracture of C Programming
+
+1.Head - Header Files
+2.Body - Main Code
+
+main function amon akta function jekhan theme code pora suru hoy .
+main function na likhle program ta pora jabe na .
+
+printf() - er jonno je header file ta dorkar seita holo  : #include<stdio.h>
+header file sobar upor e likha hoy
+
+stdio = standard input and output
+
+//function Stracture
+
+returnType  functionName() {
+    //code or work
+
+    return sometiong
+}
