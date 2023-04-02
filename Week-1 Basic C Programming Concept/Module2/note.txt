@@ -1,4 +1,7 @@
+------Arithmetic Oparetor--------
+
 oparetor is a just simble . duita value er modde arithmetical kaj kore
+//arithmetic oparetor can return value
 
 arithmetic oparetors symble : + - * / %
 
@@ -7,3 +10,9 @@ arithmetic oparetors symble : + - * / %
 * = gun kora
 / = baag kora
 & = baag sesh ber kora
+
+-------Relational Oparetor--------
+// relational oparetor can return true or false
+
+symbles :
+< , <= , > , >= , == , !=
