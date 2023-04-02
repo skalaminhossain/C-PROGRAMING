@@ -16,3 +16,9 @@ arithmetic oparetors symble : + - * / %
 
 symbles :
 < , <= , > , >= , == , !=
+
+---------- Logical Oparetor --------
+// Logical Oparetor can return True or false
+
+symbles:
+&& =and , || =or , ! = not
