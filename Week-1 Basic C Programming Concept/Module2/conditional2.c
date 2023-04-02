@@ -6,7 +6,7 @@ int main(){
 
     if(momey >= 100){
         printf("Burgar Khabo");
-    }else if(momey > 50){
+    }else if(momey >= 50){
         printf("Fuska Khabo");
     }else{
         printf("TK na thakle ki ar khabo !");
