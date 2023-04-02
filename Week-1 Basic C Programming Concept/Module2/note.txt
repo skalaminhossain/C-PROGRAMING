@@ -1,0 +1,9 @@
+oparetor is a just simble . duita value er modde arithmetical kaj kore
+
+arithmetic oparetors symble : + - * / %
+
++ = jog kora
+- = biyog kora
+* = gun kora
+/ = baag kora
+& = baag sesh ber kora

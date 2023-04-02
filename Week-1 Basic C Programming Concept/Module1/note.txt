@@ -37,6 +37,8 @@ int => 100, 20, 45 , 60 , -100 ==> 4byte storage contained
 float => -3.0 , 10.55 , 100.7 , 200.5 
 char => "a" , "b" , "C" , "@"
 bool => True or False
+long long int => 8byte
+double => 8 byte
 
 ----Tutorial 1.5-----
 
