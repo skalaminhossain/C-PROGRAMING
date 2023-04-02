@@ -6,6 +6,7 @@ int main()
     int mns = a - b;
     int gun = a * b;
     int baag = b/a;
+    int mod = b % a;
 
     
     int num1 = 5 , num2 = 23;
@@ -16,6 +17,7 @@ int main()
     printf("%d\n",mns);
     printf("%d\n", gun);
     printf("%d\n", baag);
-    printf("%0.2f",bagfol);
+    printf("%0.2f\n",bagfol);
+    printf("%d",mod);
     return 0;
 }
