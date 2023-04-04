@@ -5,6 +5,8 @@ int main(){
     {
         printf("Number :%d\n",i);
     }
+
+    
     
     return 0;
 }
