@@ -1,0 +1,13 @@
+1.akoi kaj bar bar korar jonno loop use kora hoy
+
+2.gurpak khawake loop bola jaite pare
+
+loop
+    1.for loop
+    2.while loop
+    3.do while
+
+for loop => 
+for(intialization ; condition ; increment/decrement){
+    //work
+}
