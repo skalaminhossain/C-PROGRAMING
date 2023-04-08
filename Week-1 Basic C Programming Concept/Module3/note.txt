@@ -11,3 +11,20 @@ for loop =>
 for(intialization ; condition ; increment/decrement){
     //work
 }
+
+while loop => 
+
+intialization
+while(condition){
+    //work
+    //increment/decrement
+}
+
+dowhile loop =>
+intialization
+do
+{
+    //work
+    //increment/decrement
+}
+while(condition)
